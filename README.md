@@ -1,4 +1,4 @@
-# udhayaprakash
+# Udhaya Prakash M
 # 💫 About Me:
 👨🏽‍💻 Front-end Developer(Self - taught).<br>🔭 Working on front-end projects at the moment.<br>🫱🏻‍🫲🏾 Seeking partnerships on projects based on React.<br>🌱 Ongoing:  Learning React<br>🌐 Visit https://portfolio-udhay.netlify.app/<br>📮 Reach me @udayamvad@gmail.com
 
