@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽‍💻 Front-end Developer(Self - Taught).<br>🔭 Working on front-end projects at the moment.<br>🫱🏻‍🫲🏾 Seeking partnerships on projects based on React.<br>🌱 Ongoing: Learning React<br>🌐 Visit https://udhaya-prakash.netlify.app/<br>📮 Reach me @udayamvad@gmail.com
+👨🏽‍💻 Front-end Developer(Self - Taught).<br>🔭 Working on front-end projects at the moment.<br>🫱🏻‍🫲🏾 Seeking partnerships on projects based on React and Next.<br>🌱 Ongoing: Learning React<br>🌐 Visit https://udhaya-prakash.netlify.app/<br>📮 Reach me @udayamvad@gmail.com
 
 
 ## 🌐 Socials:
